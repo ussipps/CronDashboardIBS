@@ -4,6 +4,12 @@
 *.dll
 *.so
 *.dylib
+main
+*.rar
+*.example
+*.xml
+*.iml
+crondashboard
 
 # Test binary, build with `go test -c`
 *.test
